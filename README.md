@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 # githubtest
 Hi, Its Monday
+how r u, you are in TTA
 =======
 ## Welcome to GitHub Pages
 
